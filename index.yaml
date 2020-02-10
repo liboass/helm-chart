@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  nacos:
+  - apiVersion: v1
+    appVersion: v0.1.2
+    created: "2020-02-10T19:53:11.070105+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 4ce20ffece5d5532b660f3e3ee579145e180dc3f73f3ce97c1f874a122c5dc3b
+    maintainers:
+    - name: arrowfeng
+    name: nacos
+    urls:
+    - https://liboass.github.io/helm-chart/nacos-v0.1.2.tgz
+    version: v0.1.2
+generated: "2020-02-10T19:53:11.066273+08:00"
