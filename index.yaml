@@ -3,13 +3,24 @@ entries:
   nacos:
   - apiVersion: v1
     appVersion: v0.1.2
-    created: "2020-02-10T19:53:11.070105+08:00"
+    created: "2020-02-12T17:11:45.274525+08:00"
     description: A Helm chart for Kubernetes
-    digest: 4ce20ffece5d5532b660f3e3ee579145e180dc3f73f3ce97c1f874a122c5dc3b
+    digest: 213393293fee352d952dcba02b5a02da2292d7196227cb8d3f180e6090e40360
     maintainers:
     - name: arrowfeng
     name: nacos
     urls:
     - https://liboass.github.io/helm-chart/nacos-v0.1.2.tgz
     version: v0.1.2
-generated: "2020-02-10T19:53:11.066273+08:00"
+  python-http-server:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-02-12T17:11:45.275476+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 2e9aa73c1e294d8062bbf6704405b5cd9511023518d4ebed6c855bc0cf4c5fce
+    name: python-http-server
+    type: application
+    urls:
+    - https://liboass.github.io/helm-chart/python-http-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-02-12T17:11:45.26978+08:00"
